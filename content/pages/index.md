@@ -9,11 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      Welcome to **Bubbler Glass** – the ultimate solution for a **cooler,
-      cleaner, and smoother** smoking experience. Whether you’re a casual
-      smoker, a connoisseur, or health-conscious about what you inhale, our
-      **custom-designed glass bubblers and premium filters** will transform the
-      way you enjoy pre-rolls and joints.
+      Whether you’re a casual smoker, a connoisseur, or health-conscious about
+      what you inhale, our **custom-designed glass bubblers and premium
+      filters** will transform the way you enjoy pre-rolls and joints.
     actions:
       - label: Get started
         altText: ''
