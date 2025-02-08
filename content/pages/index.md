@@ -15,15 +15,6 @@ sections:
       what you inhale, our **custom-designed glass bubblers and premium
       filters** will transform the way you enjoy pre-rolls and joints.
     actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - label: Store Locator
         altText: ''
         url: /
@@ -33,6 +24,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - label: ''
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
     media:
       url: /images/IMG_1110-transformed (1).jpeg
       altText: Unblock your team boost your time to production preview
