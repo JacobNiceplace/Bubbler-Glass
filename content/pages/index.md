@@ -7,7 +7,9 @@ sections:
       text: 'Upgrade Your Smoke – Smoother, Cleaner, Better'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Welcome to Bubbler Glass – the ultimate solution for a cooler, cleaner,
+      and smoother smoking experience.
     text: >
       Whether you’re a casual smoker, a connoisseur, or health-conscious about
       what you inhale, our **custom-designed glass bubblers and premium
