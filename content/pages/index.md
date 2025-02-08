@@ -8,7 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: "\U0001F525 **Custom-Designed, Custom-Made – The Ultimate Bubbler Experience!** \U0001F525\n\nBubbler Glass bubblers **instantly** cool your smoke from a scorching **200°C (392°F) down to a smooth 40°C (104°F)** using just regular tap water. No more harsh hits—just pure, chilled enjoyment with all the benefits.\n\n"
+    text: >
+      Welcome to **Bubbler Glass** – the ultimate solution for a **cooler,
+      cleaner, and smoother** smoking experience. Whether you’re a casual
+      smoker, a connoisseur, or health-conscious about what you inhale, our
+      **custom-designed glass bubblers and premium filters** will transform the
+      way you enjoy pre-rolls and joints.
     actions:
       - label: Get started
         altText: ''
