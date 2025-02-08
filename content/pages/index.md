@@ -15,7 +15,7 @@ sections:
       what you inhale, our **custom-designed glass bubblers and premium
       filters** will transform the way you enjoy pre-rolls and joints.
     actions:
-      - label: Get started
+      - label: Store Locator
         altText: ''
         url: /
         showIcon: false
