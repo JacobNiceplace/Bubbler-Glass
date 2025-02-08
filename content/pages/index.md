@@ -57,10 +57,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Drops temperature from 200°C (392°F) to 40°C (104°F) for a smoother,
+          less harsh inhale.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
