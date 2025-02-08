@@ -55,7 +55,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: ✔ Instantly Cool Your Smoke –
+        title: Instantly Cool Your Smoke
         subtitle: Numbers Done
         text: >
           Drops temperature from 200°C (392°F) to 40°C (104°F) for a smoother,
