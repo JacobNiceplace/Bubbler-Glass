@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Store Locator",
-            "url": "/pricing",
+            "url": "/Store Locator",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
