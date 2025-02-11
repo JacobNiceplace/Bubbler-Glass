@@ -154,7 +154,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: 'Where to ind Bubbler Glass:'
     images:
       - url: /images/resized_logo_120_2.png
         altText: Empathy logo
