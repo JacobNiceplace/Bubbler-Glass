@@ -168,6 +168,7 @@ sections:
       - url: /images/resized_logo_120_3.png
         altText: Prairie & Luna
         type: ImageBlock
+        elementId: 'https://www.prairieandluna.ca/'
       - url: /images/resized_logo_120_0.png
         altText: Puffalot logo
         type: ImageBlock
