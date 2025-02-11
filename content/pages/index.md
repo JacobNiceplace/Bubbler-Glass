@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Upgrade Your Smoke – Smoother, Cleaner, Better'
+      text: 'Upgrade Your Smoke – Cooler, Cleaner, Better'
       color: text-dark
       type: TitleBlock
     subtitle: >-
