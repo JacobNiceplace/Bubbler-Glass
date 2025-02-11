@@ -56,7 +56,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Instantly Cool Your Smoke
-        subtitle: Numbers Done
+        subtitle: Chills your hit by 160°C (288°F)
         text: "From a scorching **200°C** to a smooth **40°C**—for the smoothest, easiest inhale! \U0001F680\U0001F4A8\n"
         actions: []
         elementId: null
