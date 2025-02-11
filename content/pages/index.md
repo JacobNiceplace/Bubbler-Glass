@@ -74,7 +74,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Cooler Smoke
           elementId: ''
           url: >-
             /images/DALL·E 2025-02-11 00.12.23 - A sleek, modern website icon
