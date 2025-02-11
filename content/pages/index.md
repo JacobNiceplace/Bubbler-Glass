@@ -154,7 +154,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: 'Where to ind Bubbler Glass:'
+  - subtitle: 'Where to Find Bubbler Glass:'
     images:
       - url: /images/resized_logo_120_2.png
         altText: Empathy logo
