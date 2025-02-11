@@ -177,7 +177,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/resized_logo_0.png
+      - url: /images/resized_logo_120_0.png
         altText: Puffalot logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
