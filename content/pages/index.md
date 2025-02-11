@@ -166,7 +166,7 @@ sections:
       - altText: Telus logo
         type: ImageBlock
       - url: /images/resized_logo_120_3.png
-        altText: Contentful logo
+        altText: Prairie & Luna
         type: ImageBlock
       - url: /images/resized_logo_120_0.png
         altText: Puffalot logo
