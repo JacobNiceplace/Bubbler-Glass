@@ -181,7 +181,7 @@ sections:
           /images/DALL·E 2025-02-10 23.50.24 - A high-quality vector-style logo
           of 'PUFFALOT' using the same bold, wavy, playful lettering style as
           the original image. The logo should have a clean .webp
-        altText: Sanity logo
+        altText: Puffalot logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
