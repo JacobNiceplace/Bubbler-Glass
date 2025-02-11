@@ -177,10 +177,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: >-
-          /images/DALL·E 2025-02-10 23.50.24 - A high-quality vector-style logo
-          of 'PUFFALOT' using the same bold, wavy, playful lettering style as
-          the original image. The logo should have a clean .webp
+      - url: /images/resized_logo_0.png
         altText: Puffalot logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
