@@ -180,7 +180,7 @@ sections:
       - url: /images/resized_logo_120_0.png
         altText: Puffalot logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/resized_logo_120_1.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
