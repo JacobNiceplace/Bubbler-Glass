@@ -76,7 +76,10 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: >-
+            /images/DALL·E 2025-02-11 00.12.23 - A sleek, modern website icon
+            representing temperature reduction for smoking. The icon should
+            include a visual transition from high heat (200°C, repres.webp
           styles:
             self:
               borderRadius: x-large
